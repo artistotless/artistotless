@@ -1,6 +1,3 @@
-<h1 align="center">Hi 👋, I'm Aslan</h1>
-<h3 align="center">.NET developer from Russia</h3>
-
 <h3 align="left">Stack:</h3>
 <p align="left">.NET Core 6</p>
 <p align="left">REST Web API</p>
